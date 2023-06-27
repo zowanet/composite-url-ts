@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"lib": [
+			"ESNext"
+		],
+		"module": "ESNext",
+		"moduleResolution": "NodeNext",
+		"noImplicitThis": true,
+		"outDir": "lib",
+		"strict": true,
+		"target": "ESNext"
+	},
+	"include": [
+		"src/**/*.mts"
+	]
+}

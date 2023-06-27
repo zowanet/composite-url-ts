@@ -1,0 +1,36 @@
+{
+	"author": {
+		"name": "zowanet",
+		"url": "https://github.com/zowanet"
+	},
+	"bugs": {
+		"url": "https://github.com/zowanet/composite-url-ts/issues"
+	},
+	"contributors": [],
+	"description": "",
+	"devDependencies": {
+		"@types/node": "20.3.1",
+		"typescript": "5.1.3"
+	},
+	"engines": {
+		"node": ">=20.3.1 <21",
+		"npm": ">=9.6.7 <10"
+	},
+	"files": [
+		"lib/**/*.mjs",
+		"UNLICENSE"
+	],
+	"homepage": "https://github.com/zowanet/composite-url-ts",
+	"keywords": [
+		"url"
+	],
+	"license": "Unlicense",
+	"main": "lib/main.mjs",
+	"name": "@zowanet/composite-url",
+	"private": false,
+	"repository": "github:zowanet/composite-url-ts",
+	"scripts": {
+		"build": "tsc"
+	},
+	"version": "0.1.0"
+}
